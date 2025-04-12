@@ -1,0 +1,3 @@
+C:/Users/joans/CLionProjects/Generadorder-Combinaciones/cmake-build-debug/CMakeFiles/Generadorder_Combinaciones.dir
+C:/Users/joans/CLionProjects/Generadorder-Combinaciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joans/CLionProjects/Generadorder-Combinaciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
